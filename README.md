@@ -9,6 +9,7 @@ Instale o prolog disponível em https://www.swi-prolog.org/.
 Execute o arquivo bot.pl ou abra dentro do softaware swi-prolog que foi instalado anteriormente.
 
 Digite:
+
         bot.
         
 Vai aparecer uma lista de perguntas que estão nos arquivos base1.pl e base2.pl.
